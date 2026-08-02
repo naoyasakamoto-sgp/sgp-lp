@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="NAGORI">
+  <rect width="512" height="512" fill="#070c11"/>
+  <rect x="36" y="36" width="440" height="440" fill="none" stroke="#b68a4a" stroke-width="4"/>
+  <text x="256" y="345" fill="#f6f2ea" text-anchor="middle" font-family="Georgia, serif" font-size="280">N</text>
+</svg>
