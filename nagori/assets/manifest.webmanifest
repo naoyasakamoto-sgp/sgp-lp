@@ -1,0 +1,9 @@
+{
+  "name": "NAGORI — The Music of Vanishing",
+  "short_name": "NAGORI",
+  "start_url": "/sgp-lp/nagori/",
+  "display": "standalone",
+  "background_color": "#070c11",
+  "theme_color": "#070c11",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]
+}
