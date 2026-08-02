@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="b" cx="75%" cy="40%" r="55%"><stop stop-color="#20394e"/><stop offset="1" stop-color="#070c11"/></radialGradient>
+    <radialGradient id="a" cx="80%" cy="92%" r="45%"><stop stop-color="#b68a4a" stop-opacity=".22"/><stop offset="1" stop-color="#070c11" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#070c11"/>
+  <rect width="1200" height="630" fill="url(#b)" opacity=".9"/>
+  <rect width="1200" height="630" fill="url(#a)"/>
+  <path d="M760 630V360h110v270M880 630V250h130v380M1020 630V330h90v300M1120 630V190h80v440" fill="#091016"/>
+  <g fill="#cea867" opacity=".55">
+    <circle cx="920" cy="300" r="2"/><circle cx="950" cy="300" r="2"/><circle cx="980" cy="300" r="2"/>
+    <circle cx="920" cy="340" r="2"/><circle cx="950" cy="340" r="2"/><circle cx="980" cy="340" r="2"/>
+    <circle cx="1150" cy="250" r="2"/><circle cx="1178" cy="250" r="2"/><circle cx="1150" cy="292" r="2"/>
+  </g>
+  <path d="M80 120h170" stroke="#b68a4a" stroke-width="3"/>
+  <text x="80" y="90" fill="#f6f2ea" font-family="Arial, sans-serif" font-size="26" letter-spacing="7">NAGORI</text>
+  <text x="80" y="250" fill="#f6f2ea" font-family="Georgia, serif" font-size="78">The Music of</text>
+  <text x="80" y="335" fill="#f6f2ea" font-family="Georgia, serif" font-size="78">Vanishing</text>
+  <text x="82" y="450" fill="#eee9df" font-family="serif" font-size="39">消えていく感情を、音楽として残す。</text>
+  <text x="82" y="535" fill="#aab3b9" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">SENDAI, JAPAN / OFFICIAL SITE</text>
+</svg>
