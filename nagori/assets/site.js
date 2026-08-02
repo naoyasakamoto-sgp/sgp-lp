@@ -5,7 +5,7 @@
   const modal = document.querySelector('.video-modal');
   const videoFrame = document.querySelector('.video-frame');
   const closeButton = document.querySelector('.modal-close');
-  const youtubeId = 'ZndQiqaESjo';
+  const youtubeId = '2MMYdal2Oso';
 
   const onScroll = () => header?.classList.toggle('is-scrolled', window.scrollY > 24);
   onScroll();
